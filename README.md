@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on multivariate statistics for NMR & MS data.
 - 📫 How to reach me by email n.gurrin@sms.ed.ac.uk
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: bagders cuddle for warmth when its cold.
 
 <!---
 econiamh/econiamh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
