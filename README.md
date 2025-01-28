@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @econiamh
 - 👀 I’m interested in analytical chemistry, soil and water.
 - 🌱 I’m currently learning R, Python & Bash.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on multivariate statistics for NMR & MS data.
 - 📫 How to reach me by email n.gurrin@sms.ed.ac.uk
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
